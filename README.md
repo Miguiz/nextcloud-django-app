@@ -1,1 +1,0 @@
-nextcloud-django-app
