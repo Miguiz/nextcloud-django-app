@@ -23,13 +23,13 @@ Download the Nextcloud App source code from Gitlab:
 
 ::
 
-   $ git clone https://gitlab.beezim.fr/beezim/nadine.git
+   $ git clone https://github.com/Miguiz/nextcloud-django-app.git
 
 Copy the Nextcloud App to your Django site:
 
 ::
 
-   $ cd nadine
+   $ cd nextcloud-django-app
    $ cp nextcloud path/to/your/django/site
 
 Install all the requirements:
